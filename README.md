@@ -3,7 +3,7 @@
 This is a **React-based web application** that implements a counter, user data form, rich text editor, and more. The project uses **Chakra UI** for UI components, **React Spring** for animations, and **React Router** for routing. It also integrates **React Charts** for data visualization and offers optional features like **Google Sign-In** authentication.
 
 ## Live Demo
-You can view the live application at: [**neerajcounterapp.netlify.app/login**](https://neerajcounterapp.netlify.app/login)
+You can view the live application at: [**neerajcounterapp.netlify.app/login**](https://neerajcounterapp.netlify.app/)
 
 ## Features
 ### 1. **Counter Component**
